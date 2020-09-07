@@ -58,7 +58,7 @@ logo = """ -----------------------------•◈•
 \033[1;91m Mohammed 
 Mohammedaris589 
 \033
-\033[1;96mGithub \https://github.com/Mohammedaris/mohammed-/edit/master/zeroboy.py
+\033[1;96mGithub \https://github.com/Mohammedaris589/instatools 
 \033[1;91m======================================="""
 
 def tik():
